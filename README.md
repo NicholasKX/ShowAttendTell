@@ -57,7 +57,7 @@ python train.py
 * You can change the hyperparameters in the _train.py_ file alternatively.
 * The model will be saved in the _model_saved_ folder
 ### 3. Inference
-* Download the [**checkpoint file**](https://drive.google.com/drive/folders/1gIUfmDfPlbkbAqr0vo2RKRozgwLckXjM?usp=sharing) and put it in the _model_saved_ folder.
+* Download the [**checkpoint file**](https://drive.google.com/file/d/11MPk52W_tG95bzAGrc-am5YcSG31U-A1/view?usp=sharing, https://drive.google.com/file/d/1NHhWSPbElIpVEe6qo7y7Ile3KMFcpXHJ/view?usp=sharing) and put it in the _model_saved_ folder.
 * Run the following command : 
 ```bash
 python caption.py --img <path_to_image> --beam_size <beam search>
