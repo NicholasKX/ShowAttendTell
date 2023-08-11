@@ -5,7 +5,7 @@
 <h4 align="center">
     <p>
         <b>简体中文</b> |
-        <a href="https://openi.pcl.ac.cn/Kayxxx/ShowAndTell/src/branch/master/README.md">English</a>
+        <a href="https://github.com/NicholasKX/ShowAttendTell/blob/main/README.md">English</a>
     </p>
 </h4>
 
@@ -31,7 +31,7 @@
 ## 使用方法
 克隆该仓库:
 ```bash
-git clone https://openi.pcl.ac.cn/Kayxxx/ShowAndTell.git
+git clone https://github.com/NicholasKX/ShowAttendTell.git
 ```
 
 ### 1. Flickr8k Dataset 
@@ -77,18 +77,18 @@ python evaluation.py
 ### 5. 结果
 一些结果如下:
 <p align="center">
-  <img width="299" height="299" src="output/dog_out.png">
+  <img width="299" height="299" src="assets/dog_out.png">
 </p>
 <pre><code> Caption : a dog is running on the beach . </code></pre> 
 
 <p align="center">
-  <img width="299" height="299" src="output/hiking_out.png">
+  <img width="299" height="299" src="assets/hiking_out.png">
 </p>
 <pre><code> Caption : a man is standing on top of a mountain . </code></pre> 
 
 Bad Case: 
 <p align="center">
-  <img width="299" height="299" src="F:\ShowAttendTell\output\motocycle_out.png">
+  <img width="299" height="299" src="assets/motocycle_out.png">
 </p>
 <pre><code> Caption : a man rides a motorcycle. </code></pre> 
 
