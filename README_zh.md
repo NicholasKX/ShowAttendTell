@@ -62,7 +62,7 @@ python train.py
 
 
 ### 3. 推理
-* 下载好预训练模型到本地（_model_saved_）并指定路径.
+* 下载好预训练模型到本地（_model_saved_）并指定路径 [模型下载](https://drive.google.com/drive/folders/1gIUfmDfPlbkbAqr0vo2RKRozgwLckXjM?usp=sharing).
 * 运行如下代码 : 
 ```bash
 python caption.py --img <path_to_image> --beam_size <beam search>
